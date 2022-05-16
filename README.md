@@ -10,3 +10,9 @@ as magical. There have been a few days where I was too burnt out to look for sol
 wasn't in the mood to put code in, but i'm learning that the good and the bad are all part of the hurdles of learning 
 web development. I plan on becoming intimate with my inspirations for wanting to take this challenge, as well as what
 I would be interested in building as a way to offset the study fatigue. Till next time!
+
+5/16/22
+Additions have been a bit slow, and understanding how to use flexbox effectively has been a pain, so i decided to start
+practicing with a mastery game called "Flexbox Zombies". This game is a godsend, it teaches you the functions of the 
+different elements and their properties in a fun way. My understanding of exactly how to use the display containers
+has increased twice over. Will have to find more games like this that help ease the process.
