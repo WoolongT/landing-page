@@ -16,3 +16,6 @@ Additions have been a bit slow, and understanding how to use flexbox effectively
 practicing with a mastery game called "Flexbox Zombies". This game is a godsend, it teaches you the functions of the 
 different elements and their properties in a fun way. My understanding of exactly how to use the display containers
 has increased twice over. Will have to find more games like this that help ease the process.
+
+5/17/22
+After 21 days of growing pains, many flexbox tutorials and coffee breaks, today is the day i've finally complteted this project! There are still spacing issues that have to be addressed and I also want to replace the placeholder items with content to relfect a professional web-page, but i'll get to that further down the road. My main obstacle in completing this landing page was understanding how flexbox functions and what each of the selectors are capable of. A few fun minigames and MDN articles for a few days has mostly cleared up this confusion, but am still working on solidifying my knowledge (shoutout to Flexbox Zombies!) Other issues were: figuring out proper sizes for text/divs, header/footer sizing + placement (needs work), proper code management, flexbox containers, content spacing and figuring out how to merge branches with git (almost got me there!) Onto the next project!
